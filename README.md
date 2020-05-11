@@ -1,2 +1,2 @@
 # UID
-UID project
+UID group project
